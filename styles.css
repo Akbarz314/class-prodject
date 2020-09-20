@@ -30,9 +30,10 @@ body {
     color: white;
   }
   /* main */
-  main img {
-    width: 300px;
-  }
+  img { height: 250px;
+    width:250px;
+    object-fit:contain;
+    }
   section {
     width: 940px;
     text-align: center;
